@@ -1,5 +1,5 @@
 import random
-with open("syllables.txt") as f:
+with open("syllables") as f:
     syls = []
     for l in f:
         syls.append(l.replace('\n',''))

@@ -1,5 +1,5 @@
 import random
-with open("KoboldSkills", "r") as f:
+with open("skills", "r") as f:
     skills = []
     for s in f:
         skills.append(s.strip())
