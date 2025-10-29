@@ -79,6 +79,8 @@ Impulse Control
 Aura
 Vibe
 Dexterity
+Horseplay
+Versimilitude
 Temperance
 Healing
 Intimidation
